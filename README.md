@@ -24,7 +24,7 @@ para decisões de negócio e de automatizar tarefas repetitivas.
 
 ## 🎓 Formação
 - Banco de Dados e Big Data (em andamento)
-- Nanodegree Impacta / DIO *(ajuste conforme seus cursos)*
+- Nanodegree Impacta / DIO FullStack
 
 ## 📫 Contato
 - LinkedIn: [Karen Sirqueira](https://br.linkedin.com/in/karen-sirqueira-211323140)
