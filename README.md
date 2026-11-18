@@ -17,10 +17,10 @@ para decisões de negócio e de automatizar tarefas repetitivas.
 
 | Projeto | O que responde | Ferramentas |
 |---|---|---|
-| Análise de Vendas E-commerce *(em breve)* | Quais categorias geram mais receita e onde a entrega atrasa? | SQL |
-| Dashboard de Vendas *(em breve)* | Painel com receita, ticket médio e vendas por estado | Power BI |
-| Análise Exploratória com Python *(em breve)* | Como a renda varia entre regiões do Brasil? | Python, pandas |
-| Automação de Relatório *(em breve)* | Envio automático de um resumo semanal por e-mail | Apps Script, Sheets |
+| Análise de Fraude em Transações *(em breve)* | Quais padrões de valor, horário e comportamento indicam fraude? | SQL, Python |
+| Painel de Chargeback e Fraude *(em breve)* | Qual a taxa de chargeback, quais os principais motivos e como isso evolui mês a mês? | Power BI, Python |
+| Automação de Prazos e Relatórios *(em breve)* | Como avisar responsáveis automaticamente sobre prazos e resumir a semana? | Apps Script, Sheets, Forms |
+| Amostragem para Auditoria *(em breve)* | Como priorizar casos de maior risco em uma amostra de auditoria? | Python |
 
 ## 🎓 Formação
 - Banco de Dados e Big Data (em andamento)
